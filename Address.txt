@@ -1,7 +1,7 @@
-### CaritoSwap Testnet (chainId : 44787)
+### CaritoSwap (chainId : 44787)
 
 - Factory: 0xe7f7067c9ecab27c5f7f13e02b13ed50931f6d0f
 - Router: 0x4cab5791640c439d7aece517d70bfefca4b0fb6b
 - Init_Code_hash: 0x064f48e3b52edd964f7aa917dce8cece6dfa5f162f16ea2dbb791af082377bd0
-- WETH Address : 0x524d97A67f50F4A062C28c74F60703Aec9028a94
+- WCELO Address : 0x524d97A67f50F4A062C28c74F60703Aec9028a94
 - Multicall contract Address : 0x387ce7960b5DA5381De08Ea4967b13a7c8cAB3f6

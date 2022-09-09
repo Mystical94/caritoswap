@@ -12,7 +12,7 @@ In-depth documentation on Uniswap V2 is available at [uniswap.org](https://unisw
 
 The built contract artifacts can be browsed via [unpkg.com](https://unpkg.com/browse/@uniswap/v2-core@latest/).
 
-# Addresses and Verified Source Code:
+## Addresses and Verified Source Code:
 
 Celo(Alfajores) Testnet
 - CaritoSwap Factory: https://alfajores-blockscout.celo-testnet.org/address/0xe7F7067C9ECAB27c5F7f13E02b13eD50931f6D0f/transactions

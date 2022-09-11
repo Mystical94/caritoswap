@@ -34,7 +34,7 @@ npm install
 
 start the development server
 ```sh
-yarn dev
+yarn start
 
 or
 

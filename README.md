@@ -69,7 +69,7 @@ or
 
 npm install
 ```
-If using Windows then run these two commmands
+If using Windows then run these two commmands after npm install
 
 ```sh
 rm -r ./node_modules/@uniswap/sdk

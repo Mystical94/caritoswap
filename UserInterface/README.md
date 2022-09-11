@@ -33,6 +33,16 @@ or
 
 npm install
 ```
+If using Windows then run these two commmands after npm install
+
+```sh
+rm -r ./node_modules/@uniswap/sdk
+```
+And Then this command
+
+```sh
+cp -r ./forks/@uniswap/sdk ./node_modules/@uniswap/sdk
+```
 
 start the development server
 ```sh
